@@ -48,3 +48,13 @@
 .noClickMe {
     background-color: yellow;
 }
+
+.propertionned {
+    width: 300px;
+    height: auto;
+}
+
+.distorted {
+    width: 300px;
+    height: 600px;
+}
