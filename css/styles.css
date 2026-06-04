@@ -1,4 +1,4 @@
-div {
+.external-Method {
     background-color: red;
     color: white;
     font-size: 32px;
@@ -12,4 +12,24 @@ div {
     color: white;
     font-size: 20px;
     text-align: center;
+}
+
+.allOddNumberedElements {
+    background-color: rgb(255, 146, 155);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#theSecondElement {
+    color: rgb(000,000,255);
+    font-size: 36px;
+}
+
+.theThirdElement {
+    font-size: 24px;
+}
+
+#theFourthElement {
+    background-color: rgb(177, 255, 190);
+    font-size: 24px;
+    font-weight: bold;
 }
