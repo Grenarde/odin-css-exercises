@@ -1,0 +1,15 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home-Button {
+    border-radius: 5px;
+    background-color: rgb(145, 202, 255);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
